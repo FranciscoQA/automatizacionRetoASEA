@@ -1,0 +1,13 @@
+
+
+java:S1192P"kDefine a constant instead of duplicating this literal "Termine de seleccionar todos mis productos" 3 times.(Γ°‰θωÿÿÿÿ8γύ¦β1
+
+java:S1186’"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©ΔΓ8πύ¦β1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΦΞΖ8ωύ¦β1
+L	java:S106L"+Replace this use of System.out by a logger.(ΰθϋΨωÿÿÿÿ8ύ¦β1
+L	java:S106P"+Replace this use of System.out by a logger.(Γ°‰θωÿÿÿÿ8ύ¦β1
+L	java:S106^"+Replace this use of System.out by a logger.(«Ερ‡ύÿÿÿÿ8“ύ¦β1
+L	java:S106b"+Replace this use of System.out by a logger.(Γ°‰θωÿÿÿÿ8–ύ¦β1
+X	java:S125l"<This block of commented-out lines of code should be removed.(‘ΜέΉ8ύ¦β1
+L	java:S106~"+Replace this use of System.out by a logger.(ηΩ‚Γÿÿÿÿÿ8ύ¦β1
+M	java:S106‚"+Replace this use of System.out by a logger.(Γ°‰θωÿÿÿÿ8 ύ¦β1

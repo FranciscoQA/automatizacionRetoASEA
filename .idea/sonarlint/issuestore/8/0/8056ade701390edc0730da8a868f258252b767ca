@@ -1,0 +1,21 @@
+
+h	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¸ÇØ¡â1
+I
+java:S3416"+Update this logger to use "AseaPage.class".(ÌİÙÅ8ĞÇØ¡â1
+|
+java:S2142…"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8æÇØ¡â1
+^	java:S125˜"<This block of commented-out lines of code should be removed.(·ïâÊıÿÿÿÿ8ïÇØ¡â1
+Y	java:S125¤"<This block of commented-out lines of code should be removed.(Áóñ8ñÇØ¡â1
+^	java:S125°"<This block of commented-out lines of code should be removed.(äè‹¿şÿÿÿÿ8óÇØ¡â1
+H	java:S106ñ"+Replace this use of System.out by a logger.(»‹ª8şÇØ¡â1
+H	java:S106ò"+Replace this use of System.out by a logger.(Ä›úĞ8ÿÇØ¡â1
+^	java:S125™"<This block of commented-out lines of code should be removed.(ª§°“ıÿÿÿÿ8†ÈØ¡â1
+^	java:S125 "<This block of commented-out lines of code should be removed.(Ö³ÕÀúÿÿÿÿ8‡ÈØ¡â1
+^	java:S125¦"<This block of commented-out lines of code should be removed.(ˆ©ş‡úÿÿÿÿ8ˆÈØ¡â1
+^	java:S125­"<This block of commented-out lines of code should be removed.(Ü‡½˜üÿÿÿÿ8ŠÈØ¡â1
+^	java:S125²"<This block of commented-out lines of code should be removed.(”Á·Øüÿÿÿÿ8‹ÈØ¡â1
+^	java:S125¹"<This block of commented-out lines of code should be removed.(´Îƒªûÿÿÿÿ8ŒÈØ¡â1
+Y	java:S125¾"<This block of commented-out lines of code should be removed.(Ôİ¤»8ÈØ¡â1
+^	java:S125Å"<This block of commented-out lines of code should be removed.(¥µò¾ÿÿÿÿÿ8ÈØ¡â1
+H
+java:S1068"*Remove this unused "LOGGER" private field.(ÌİÙÅ8‘ÈØ¡â1
